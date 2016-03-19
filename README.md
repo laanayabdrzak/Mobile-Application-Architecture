@@ -43,3 +43,68 @@ Learning to build real **data-driven** apps requires a few core concepts:
 - **Data:** Models, Networking and Persistence
 
 - **Platform:** OS Services, Hardware, Accessing Sensors
+
+Real **data-driven** apps usually require an API.
+
+- Apps display data and this comes from a source.
+
+- Most mobile apps rely on server-side APIs for data.
+
+- When developing mobile, consider what sources your app's data is coming from / being saved to. 
+
+- Many apps leverage existing APIs while others require a custom server-side component.
+
+## Mobile Client Architecture
+
+ [![CodePath](http://i.imgur.com/XgxWfyF.png)](http://codepath.com)
+ 
+## Full Application Architecture
+
+ [![CodePath](http://i.imgur.com/XgxWfyF.png)](http://codepath.com)
+ 
+ ## Views
+ 
+ - Views **display data** or **receive data** inputs.
+ 
+## Controllers
+
+Controllers work with views and models to **implement dynamic behaviors** including:
+
+-  Network requests (API interaction)
+
+-  Persistence (Storing data)
+
+-  Event handling (Button clicks, Data Input)
+
+-  Navigation (Moving between app views)
+
+## Models
+
+Models on mobile usually reflect the server state for **data retrieved via APIs** including:
+
+- Model definitions (properties, relationships)
+
+- JSON/XML serialization/deserialization
+
+- Persistence Storage (database)
+
+- Data Formatters
+    
+## Networking
+
+Networking on mobile means **interacting with a server in** one of the following ways:
+
+- Interacting with models via a REST API
+- Displaying external images in the view
+- Audio/video playback
+- Socket programming (rare)
+    
+## Hardware
+Leveraging **device features** including:
+
+- Camera
+- GPS
+- Accelerometer
+- Bluetooth, AirDrop
+- Contacts, Calendar, SMS, Mail
+    
