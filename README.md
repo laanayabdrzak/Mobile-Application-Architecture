@@ -52,14 +52,14 @@ I'm gonna focus on **data-driven** apps.
  
 ## Server Side API
 
-
-  ![CodePath](https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Server_Side_API.png)
-
+<p align="center">
+    <img src="https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Server_Side_API.png" alt="Screenshots"/>
+</p>
 
 ## Full Application Architecture
 
- ![CodePath](https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Full_Architecture_Application.png)
- 
+ <p align="center">
+    <img src="https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Full_Architecture_Application.png" alt="Screenshots"/>
  
 ## Controllers
 
