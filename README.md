@@ -17,13 +17,13 @@ Broadly, there are two categories of mobile apps available:
   8.Maps
 ## Application Architecture
 
-Learning to build real **data-driven** apps requires a few core concepts:
++Learning to build real **data-driven** apps requires a few core concepts:
  
-       1.**Views:** Common Controls and View Layout
-       2.**Events:** Interaction and Event Handling
-       3.**Navigation:** Screen Flows and Navigation
-       4.**Data:** Models, Networking and Persistence
-       5.**Platform:** OS Services, Hardware, Accessing Sensors
+ -**Views:** Common Controls and View Layout
+ -**Events:** Interaction and Event Handling
+ -**Navigation:** Screen Flows and Navigation
+ -**Data:** Models, Networking and Persistence
+ -**Platform:** OS Services, Hardware, Accessing Sensors
   
 Real **data-driven** apps usually require an API.
   1.Apps display data and this comes from a source.
@@ -48,10 +48,10 @@ Controllers work with views and models to **implement dynamic behaviors** includ
 ## Models
 Models on mobile usually reflect the server state for **data retrieved via APIs** including:
     
-  Model definitions (properties, relationships)
-  JSON/XML serialization/deserialization
-  Persistence Storage (database)
-  Data Formatters
+         Model definitions (properties, relationships)
+         JSON/XML serialization/deserialization
+         Persistence Storage (database)
+         Data Formatters
 ## Networking
 Networking on mobile means **interacting with a server in** one of the following ways:
     
