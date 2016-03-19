@@ -17,7 +17,7 @@ Broadly, there are two categories of mobile apps available:
   8.Maps
 ## Application Architecture
 
-+Learning to build real **data-driven** apps requires a few core concepts:
+Learning to build real **data-driven** apps requires a few core concepts:
  
  -**Views:** Common Controls and View Layout
  -**Events:** Interaction and Event Handling
