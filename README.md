@@ -63,10 +63,6 @@ Real **data-driven** apps usually require an API.
  [![CodePath](http://i.imgur.com/XgxWfyF.png)](http://codepath.com)
  
  
- ## Views
- 
- - Views **display data** or **receive data** inputs.
- 
 ## Controllers
 
 Controllers work with views and models to **implement dynamic behaviors** including:
@@ -78,6 +74,10 @@ Controllers work with views and models to **implement dynamic behaviors** includ
 -  Event handling (Button clicks, Data Input)
 
 -  Navigation (Moving between app views)
+
+## Views
+ 
+ - Views **display data** or **receive data** inputs.
 
 ## Models
 
