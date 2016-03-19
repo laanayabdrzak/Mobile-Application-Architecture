@@ -62,6 +62,7 @@ Real **data-driven** apps usually require an API.
 
  [![CodePath](http://i.imgur.com/XgxWfyF.png)](http://codepath.com)
  
+ 
  ## Views
  
  - Views **display data** or **receive data** inputs.
@@ -100,6 +101,7 @@ Networking on mobile means **interacting with a server in** one of the following
 - Socket programming (rare)
     
 ## Hardware
+
 Leveraging **device features** including:
 
 - Camera
@@ -107,4 +109,32 @@ Leveraging **device features** including:
 - Accelerometer
 - Bluetooth, AirDrop
 - Contacts, Calendar, SMS, Mail
+    
+## Architecture Review
+
+In summary, we have reviewed:
+
+- Mobile is growing fast and demand is high
+- We are focusing on data-driven app development
+- Data-driven apps require a server-side API
+- All mobile development has a consistent architecture
+- Mobile largely is MVC + Networking + Hardware
+
+## Implementation
+
+check this [app](https://github.com/laanayabdrzak/Android-Boilerplate)
+
+## Contributors
+
+[laanayabdrzak](https://github.com/laanayabdrzak)
+
+<a href="https://www.linkedin.com/in/laanayabdrzak">
+  <img alt="Follow me on LinkedIn"
+       src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/linkedin.png" />
+</a>
+
+## Contributions
+ 
+ Any contributions are welcome! :smile:
+
     
