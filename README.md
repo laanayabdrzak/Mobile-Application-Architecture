@@ -46,11 +46,16 @@ Real **data-driven** apps usually require an API.
 
 ## Mobile Client Architecture
 
- ![CodePath](http://www.shroyco.com/sites/default/files/coming-soon_0.jpg)
+ ![CodePath](https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Mobile_Client_Architecture.png)
  
+## Server Side API
+
+![CodePath](https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Server_Side_API.png)
+
+
 ## Full Application Architecture
 
- ![CodePath](http://www.shroyco.com/sites/default/files/coming-soon_0.jpg)
+ ![CodePath](https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Full_Architecture.png)
  
  
 ## Controllers
