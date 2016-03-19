@@ -1,10 +1,12 @@
 # Mobile Application Architecture
 
 Broadly, there are two categories of mobile apps available:
+ 
   **View-heavy data-driven**
       Email, Social, News, Todo
   **Graphics-heavy drawing**
       Games, Creative Art, Photo Editing
+      
 ## Screen Archtypes
  
   1.Login
@@ -78,7 +80,9 @@ In summary, we have reviewed:
         Mobile largely is MVC + Networking + Hardware
 
 
+## Implementation
 
+check this [app](https://github.com/laanayabdrzak/Android-Boilerplate)
 
 ## Contributors
 [laanayabdrzak](https://github.com/laanayabdrzak)
