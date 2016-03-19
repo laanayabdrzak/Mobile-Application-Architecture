@@ -129,9 +129,7 @@ In summary, we have reviewed:
 
 check this [app](https://github.com/laanayabdrzak/Android-Boilerplate)
 
-## Contributors
-
-[laanayabdrzak](https://github.com/laanayabdrzak)
+## Author
 
 <a href="https://www.linkedin.com/in/laanayabdrzak">
   <img alt="Follow me on LinkedIn"
