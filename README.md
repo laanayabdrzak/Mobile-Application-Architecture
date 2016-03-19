@@ -39,13 +39,13 @@ Learning to build real **data-driven** apps requires a few core concepts:
 
 Real **data-driven** apps usually require an API.
 
-- Apps display data and this comes from a source.
+- Apps **display data** and this comes from a **source**.
 
-- Most mobile apps rely on server-side APIs for data.
+- Most mobile apps rely on **server-side APIs** for data.
 
 - When developing mobile, consider what sources your app's data is coming from / being saved to. 
 
-- Many apps leverage existing APIs while others require a custom server-side component.
+- Many apps **leverage existing APIs** while others require a custom server-side component.
 
 ## Mobile Client Architecture
 
