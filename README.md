@@ -1,9 +1,9 @@
 # Mobile Application Architecture
 
 Broadly, there are two categories of mobile apps available:
-  View-heavy data-driven
+  **View-heavy data-driven**
       Email, Social, News, Todo
-  Graphics-heavy drawing
+  **Graphics-heavy drawing**
       Games, Creative Art, Photo Editing
 ## Screen Archtypes
  
@@ -38,8 +38,9 @@ Views **display data** or **receive data** inputs.
 
 ## Controllers
 Controllers work with views and models to **implement dynamic behaviors** including:
-    Network requests (API interaction)
-    Persistence (Storing data)
+         -  Network requests (API interaction)
+         
+          Persistence (Storing data)
     Event handling (Button clicks, Data Input)
     Navigation (Moving between app views)
 
