@@ -46,10 +46,11 @@ Controllers work with views and models to **implement dynamic behaviors** includ
 
 ## Models
 Models on mobile usually reflect the server state for **data retrieved via APIs** including:
-    Model definitions (properties, relationships)
-    JSON/XML serialization/deserialization
-    Persistence Storage (database)
-    Data Formatters
+    
+  Model definitions (properties, relationships)
+  JSON/XML serialization/deserialization
+  Persistence Storage (database)
+  Data Formatters
 ## Networking
 Networking on mobile means **interacting with a server in** one of the following ways:
     Interacting with models via a REST API
