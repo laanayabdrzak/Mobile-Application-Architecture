@@ -14,17 +14,17 @@ Broadly, there are two categories of mobile apps available:
 
 ## Screen Archtypes
 
-1. Login
+**1. Login**
 
-2. Register
+**2. Register**
 
-3. Stream
+**3. Stream**
 
-4. Detail
+**4. Detail**
 
-5. Creation
+**5. Creation**
 
-6. Profils
+**6. Profils**
 
 7. Settings
 
