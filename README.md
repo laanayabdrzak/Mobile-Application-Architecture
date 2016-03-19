@@ -38,11 +38,11 @@ Views **display data** or **receive data** inputs.
 
 ## Controllers
 Controllers work with views and models to **implement dynamic behaviors** including:
-         -  Network requests (API interaction)
          
+          Network requests (API interaction)
           Persistence (Storing data)
-    Event handling (Button clicks, Data Input)
-    Navigation (Moving between app views)
+          Event handling (Button clicks, Data Input)
+          Navigation (Moving between app views)
 
 ## Models
 Models on mobile usually reflect the server state for **data retrieved via APIs** including:
