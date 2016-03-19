@@ -96,8 +96,11 @@ Models on mobile usually reflect the server state for **data retrieved via APIs*
 Networking on mobile means **interacting with a server in** one of the following ways:
 
 - Interacting with models via a REST API
+
 - Displaying external images in the view
+
 - Audio/video playback
+
 - Socket programming (rare)
     
 ## Hardware
@@ -105,9 +108,13 @@ Networking on mobile means **interacting with a server in** one of the following
 Leveraging **device features** including:
 
 - Camera
+
 - GPS
+
 - Accelerometer
+
 - Bluetooth, AirDrop
+
 - Contacts, Calendar, SMS, Mail
     
 ## Architecture Review
@@ -116,9 +123,9 @@ In summary, we have reviewed:
 
 - Mobile is growing fast and demand is high
 - We are focusing on data-driven app development
-- Data-driven apps require a server-side API
+- **Data-driven** apps require a server-side API
 - All mobile development has a consistent architecture
-- Mobile largely is MVC + Networking + Hardware
+- Mobile largely is **MVC + Networking + Hardware**
 
 ## Implementation
 
