@@ -1,6 +1,6 @@
-# Mobile-Application-Architecture
+# Mobile Application Architecture
 
-Broadly, there are two categories of mobile apps available:
+Broadly, there are **two categories** of mobile apps available:
     
  **View-heavy data-driven**
              
