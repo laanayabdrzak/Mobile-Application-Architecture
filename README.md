@@ -18,11 +18,12 @@ Broadly, there are two categories of mobile apps available:
 ## Application Architecture
 
 Learning to build real **data-driven** apps requires a few core concepts:
-  1.**Views:** Common Controls and View Layout
-  2.**Events:** Interaction and Event Handling
-  3.**Navigation:** Screen Flows and Navigation
-  4.**Data:** Models, Networking and Persistence
-  5.**Platform:** OS Services, Hardware, Accessing Sensors
+ 
+       1.**Views:** Common Controls and View Layout
+       2.**Events:** Interaction and Event Handling
+       3.**Navigation:** Screen Flows and Navigation
+       4.**Data:** Models, Networking and Persistence
+       5.**Platform:** OS Services, Hardware, Accessing Sensors
   
 Real **data-driven** apps usually require an API.
   1.Apps display data and this comes from a source.
@@ -53,25 +54,28 @@ Models on mobile usually reflect the server state for **data retrieved via APIs*
   Data Formatters
 ## Networking
 Networking on mobile means **interacting with a server in** one of the following ways:
-    Interacting with models via a REST API
-    Displaying external images in the view
-    Audio/video playback
-    Socket programming (rare)
+    
+        Interacting with models via a REST API
+        Displaying external images in the view
+        Audio/video playback
+        Socket programming (rare)
 ## Hardware
 Leveraging **device features** including:
-    Camera
-    GPS
-    Accelerometer
-    Bluetooth, AirDrop
-    Contacts, Calendar, SMS, Mail
+    
+        Camera
+        GPS
+        Accelerometer
+        Bluetooth, AirDrop
+        Contacts, Calendar, SMS, Mail
 
 ## Architecture Review
 In summary, we have reviewed:
-    Mobile is growing fast and demand is high
-    We are focusing on data-driven app development
-    Data-driven apps require a server-side API
-    All mobile development has a consistent architecture
-    Mobile largely is MVC + Networking + Hardware
+    
+        Mobile is growing fast and demand is high
+        We are focusing on data-driven app development
+        Data-driven apps require a server-side API
+        All mobile development has a consistent architecture
+        Mobile largely is MVC + Networking + Hardware
 
 
 
