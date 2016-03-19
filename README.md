@@ -11,6 +11,7 @@ Broadly, there are **two categories** of mobile apps available:
             
          Games, Creative Art, Photo Editing
 
+I gonna focusing on **data-driven** apps.
 
 ## Screen Archtypes
 
