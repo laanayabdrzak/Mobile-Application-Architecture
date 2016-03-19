@@ -50,11 +50,11 @@ Real **data-driven** apps usually require an API.
 
 ## Mobile Client Architecture
 
- [![CodePath](http://i.imgur.com/XgxWfyF.png)](http://codepath.com)
+ [![CodePath](http://i.imgur.com/XgxWfyF.png)]
  
 ## Full Application Architecture
 
- [![CodePath](http://i.imgur.com/XgxWfyF.png)](http://codepath.com)
+ [![CodePath](http://i.imgur.com/XgxWfyF.png)]
  
  
 ## Controllers
