@@ -47,7 +47,7 @@ I'm gonna focus on **data-driven** apps.
 ## Mobile Client Architecture
 
  <p align="center">
-    <img src="https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Mobile_Client_Architecture.png" alt="Screenshots" height="520" width="520"/>
+    <img src="https://github.com/laanayabdrzak/Mobile-Application-Architecture/blob/master/Mobile_Client_Architecture.png" alt="Screenshots"/>
 </p>
  
 ## Server Side API
